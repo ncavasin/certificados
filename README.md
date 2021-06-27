@@ -1,4 +1,4 @@
-## JCC - Journal of Cloud Computing
+## JCC - Journal of Cloud Computing, Big Data & Emerging Topics - 9th edition - 2021
 
 Article: [Classic and recent (neural) approaches to automatic text classification](https://raw.githubusercontent.com/ncavasin/certificados/main/2021_jcc/JCC_UNLP_2021__Eng.pdf).
 
@@ -7,7 +7,7 @@ ISBN: no disponible aún.
 ![]()
 
 
-## WICC - Workshop de Investigadores en Ciencias de la Computación
+## WICC - Workshop de Investigadores en Ciencias de la Computación - 23ra edición - 2021
 
 Artículo: [Clasificación automática de correos electrónicos](http://sedici.unlp.edu.ar/handle/10915/120066).
 
